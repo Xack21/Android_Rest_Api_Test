@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Booky!</string>
+    <string name="slide_1_desc">The easiest way to explore books from your favourite library!</string>
+
+    <string name="slide_2_title">Different Categories</string>
+    <string name="slide_2_desc">Books of diff categ for your family and friends!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">World of Books</string>
+    <string name="slide_4_desc">Mark favourites books and share with friends!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
